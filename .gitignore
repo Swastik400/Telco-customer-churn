@@ -1,7 +1,8 @@
-# Data files (download from Kaggle — see README)
-data/raw/
+# Processed/generated data files
 data/processed/
-*.csv
+
+# Keep raw source data tracked
+# data/raw/ is intentionally NOT ignored
 
 # Jupyter
 .ipynb_checkpoints/
