@@ -34,7 +34,7 @@
 |------|--------|-------------|
 | 1 | ✅ | BRD, dataset downloaded, EDA notebook, Data Quality Report, hypothesis list |
 | 2 | ✅ | Feature engineering, baseline Logistic Regression (F1: 0.6184, ROC-AUC: 0.8466) |
-| 3 | 🔲 | Model experiments, SHAP explainability |
+| 3 | ✅ | RF/XGBoost/LightGBM + Optuna tuning, MLflow log, SHAP report, error analysis, Model Card |
 | 4 | 🔲 | FastAPI + Docker + Streamlit dashboard |
 | 5 | 🔲 | Business storytelling, Demo Day |
 
